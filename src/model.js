@@ -7,3 +7,4 @@ export default class Model {
 			{ id: 1, name: 'uncategorised' },
 		];
 	}
+}
